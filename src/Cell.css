@@ -1,0 +1,11 @@
+.Cell-on {
+    background-color: #fcba03;
+    transition: all 0.5s ease;
+    border-radius: 50%;
+}
+
+.Cell-off {
+    background-color: #191A1A;
+    transition: all 0.8s ease-in-out;
+    border-radius: 50%;
+}

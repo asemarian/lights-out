@@ -1,0 +1,31 @@
+.Grid {
+    display: grid;
+    grid-template-columns: repeat(5, 12vmin);
+    grid-template-rows: repeat(5, 12vmin);
+    gap: 2vmin;
+}
+
+.Grid-win {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Grid-win-message {
+    font-size: 7vmin;
+    font-family: 'Monoton', sans-serif;
+    color: #fcba03;
+    color: white;
+    letter-spacing: 0.5vmin;
+}
+
+.Grid-win-button {
+    font-size: 4vmin;
+    background-color: #fcba03;
+    padding: 1.5vmin 3vmin;
+    border: none;
+    outline: none;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    border-radius: 1vmin;
+    cursor: pointer;
+}
