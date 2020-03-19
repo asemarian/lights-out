@@ -25,7 +25,6 @@
     padding: 1.5vmin 3vmin;
     border: none;
     outline: none;
-    font-family: 'Baloo Tamma 2', sans-serif;
-    border-radius: 1vmin;
+    font-family: sans-serif;
     cursor: pointer;
 }
