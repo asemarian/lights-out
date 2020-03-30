@@ -41,7 +41,7 @@ class Grid extends Component {
             this.state.pattern.every(row => row.every(cell => cell === false)) ?
                 <div className="Grid-win">
                     <p className="Grid-win-message">You Win!</p>
-                    <button className="Grid-win-button" onClick={this.newGame}>Play Again?</button>
+                    <button className="Grid-win-button" onClick={this.newGame}>New Puzzle</button>
                 </div>
                 :
                 <div className="Grid">

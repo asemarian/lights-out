@@ -12,19 +12,18 @@
 }
 
 .Grid-win-message {
-    font-size: 7vmin;
-    font-family: 'Monoton', sans-serif;
-    color: #fcba03;
+    font-size: 10vmin;
+    font-family: 'Baloo Tamma 2', sans-serif;
     color: white;
-    letter-spacing: 0.5vmin;
 }
 
 .Grid-win-button {
     font-size: 4vmin;
     background-color: #fcba03;
-    padding: 1.5vmin 3vmin;
+    width: 35vmin;
+    height: 10vmin;
     border: none;
     outline: none;
-    font-family: sans-serif;
+    font-family: 'Baloo Tamma 2';
     cursor: pointer;
 }
